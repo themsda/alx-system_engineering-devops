@@ -1,2 +1,2 @@
 #!/bin/bash
-go to video
+telnet towel.blinkenlights.nl
