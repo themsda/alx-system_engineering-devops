@@ -1,2 +1,2 @@
 #!/bin/bash
-alias echo 'PATH=PATH|wc'
+tree |$PATH
